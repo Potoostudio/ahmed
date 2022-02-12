@@ -93,7 +93,7 @@ export default function Home() {
       </div>
       <div className="row pdf-row">
         <div className="col-10 text-center">
-         <a href="./Ahmed-Resume-New.pdf" className="resume" target="_blank" rel="noreferrer">Resume PDF</a>  
+         <a href="./Ahmed-Resume.pdf" className="resume" target="_blank" rel="noreferrer">Resume PDF</a>  
         </div>
       </div>
     </div>
