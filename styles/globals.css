@@ -193,3 +193,6 @@ a {
     font-weight: 600;
   }
 }
+.pt-8rem {
+  padding-top: 8rem;
+}

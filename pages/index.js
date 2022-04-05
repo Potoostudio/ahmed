@@ -22,7 +22,15 @@ export default function Home() {
         </div>
       </div>
       <div className="row justify-content-between">
-        <div className="col-4 col-sm-11">
+        <div className="col-12">
+          <h3 className="h3-border">
+            Brand | Design | Web
+          </h3>
+          <div className="xd text-center">
+          <iframe width="1366" height="821" src="https://xd.adobe.com/embed/19ce84da-c945-45a1-8068-947f64eba518-4c9d/" frameBorder="0" allowFullScreen></iframe>
+          </div>
+        </div>
+        <div className="col-4 col-sm-11 pt-8rem">
           <h3 className="Links h3-border">
             Websites
           </h3>
@@ -67,7 +75,6 @@ export default function Home() {
               <h5 className="h5-title">Address</h5>
               <a href="https://goo.gl/maps/jXhKZM5Y3GxwviVv9" target="_blank" rel="noreferrer">
                 <p className="address item-p">
-                  6343 E Girard Pl <br/>
                   Denver, CO 80222
                 </p>
               </a>
@@ -89,11 +96,6 @@ export default function Home() {
               </a>
             </li>
           </ul>
-        </div>
-      </div>
-      <div className="row pdf-row">
-        <div className="col-10 text-center">
-         <a href="./Ahmed-Resume.pdf" className="resume" target="_blank" rel="noreferrer">Resume PDF</a>  
         </div>
       </div>
     </div>
