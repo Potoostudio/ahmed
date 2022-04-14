@@ -1,5 +1,6 @@
 import '../styles/globals.css'
 import Script from 'next/script'
+import Layout from '../components/layout'
 
 function MyApp({ Component, pageProps }) {
   return (
@@ -19,8 +20,9 @@ function MyApp({ Component, pageProps }) {
               gtag('config', 'G-R2RL87R687');
             `}
     </Script>
-  
-    <Component {...pageProps} />
+      <Layout>
+        <Component {...pageProps} />
+      </Layout>
     </>
   )
 }
