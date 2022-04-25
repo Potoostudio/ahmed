@@ -16,7 +16,7 @@ function Navbar() {
                 </a>
             </Link>
             </div>
-            <div className="menu">
+            {/* <div className="menu">
                 <ul className="list">
                     <li className="item">
                         <Link href="/work">
@@ -29,7 +29,7 @@ function Navbar() {
                         </Link>
                     </li>
                 </ul>
-            </div>
+            </div> */}
         </div>
       </>
       );

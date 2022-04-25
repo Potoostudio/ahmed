@@ -99,7 +99,18 @@ export default function Home() {
           <iframe className="xd-iframe" width="100%" height="100%" src="https://xd.adobe.com/embed/19ce84da-c945-45a1-8068-947f64eba518-4c9d/" frameBorder="0" allowFullScreen></iframe>
           </div>
         </div>
-        <div className="col-4 col-sm-11 pt-8rem">
+        <div className="col-11 pt-5 mt-5">
+          <h1 className="project-title">
+            About Me
+          </h1>
+          <h2 className="about-h2 pt-3 w-40">
+          I'm extremely inspired by people's stories and goals. Every story is unique and must be supported by unique brand strategy, logo, graphics, and website. With several years of experience in designing and programming. I define myself as a product designer for small to medium size clients.
+            </h2>
+            <h2 className="about-h2 pt-3 w-40">
+            My learning motivation comes from the challenges I take. I love doing interesting things that matter and make changes in clients' lives. Let me uniquely tell your story in a special way crafted for you and your business.
+            </h2>
+        </div>
+        <div className="col-11 col-sm-11 pt-8rem">
           <h3 className="Links h3-border">
             Websites
           </h3>
@@ -124,7 +135,7 @@ export default function Home() {
             </li>
           </ul>
         </div>
-        <div className="col-4 col-sm-11 pt-3">
+        <div className="col-11 col-sm-11 pt-3 pb-5">
           <h3 className="Links h3-border">
             Design
           </h3>
