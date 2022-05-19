@@ -373,12 +373,13 @@ sup {
     height: 821px;
   }
   .main-title {
-    font-size: 64pt;
+    padding-top: 7rem;
+    font-size: 32pt;
     text-transform: capitalize;
     line-height: 85pt;
   }
   .main-title-span {
-    font-size: 80pt;
+    font-size: 32pt;
     font-style: italic;
     font-weight: 800;
   }
@@ -507,6 +508,6 @@ sup {
   flex: 0 0 8.333333%;
   max-width: 8.333333%;
 }
-.w-40 {
-  width: 40%;
+.w-55 {
+  width: 55%;
 }

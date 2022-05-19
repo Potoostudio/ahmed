@@ -5,9 +5,6 @@ export default function Contact() {
         <>
             <div className="container contact">
                 <div className="row justify-content-center">
-                    <div className="col-10 pt-3">
-                        <h1 className="info text-center">Let's start a project!</h1>
-                    </div>
                     <div className="col-10">
                         <ul className="list">
                             <li className="item text-center">

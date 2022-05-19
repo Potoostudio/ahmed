@@ -11,7 +11,7 @@ function Navbar() {
             <Link href="/">
                 <a className="potoo-logo-a d-block">
                     <h5 className="logo-type">
-                        AA
+                        Ahmed Alfargalla
                     </h5>
                 </a>
             </Link>

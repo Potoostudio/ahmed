@@ -20,9 +20,9 @@ function MyApp({ Component, pageProps }) {
               gtag('config', 'G-R2RL87R687');
             `}
     </Script>
-      <Layout>
+    <Layout>
         <Component {...pageProps} />
-      </Layout>
+    </Layout>
     </>
   )
 }
