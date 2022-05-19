@@ -112,7 +112,7 @@ export default function Home() {
         </div>
         <div className="col-8 col-sm-8 pt-8rem">
           <h3 className="Links h3-border">
-            Websites
+            Websites Design and Development
           </h3>
           <ul className="list links">
             <li className="item">
